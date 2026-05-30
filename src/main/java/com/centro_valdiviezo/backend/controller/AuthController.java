@@ -19,6 +19,7 @@ import com.centro_valdiviezo.backend.repository.UsuarioRepository;
 import com.centro_valdiviezo.backend.repository.PacienteRepository;
 import com.centro_valdiviezo.backend.repository.MedicoRepository;
 
+
 @RestController
 @CrossOrigin(origins = "http://localhost:4200")
 public class AuthController {
