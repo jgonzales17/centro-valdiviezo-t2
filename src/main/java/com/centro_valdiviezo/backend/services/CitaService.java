@@ -11,6 +11,7 @@ import com.centro_valdiviezo.backend.dto.EstadoCitaCantDTO;
 import com.centro_valdiviezo.backend.dto.IngresosMensualesDTO;
 import com.centro_valdiviezo.backend.repository.CitaRepository;
 
+// Interfaz ICitaService creada
 @Service
 public class CitaService {
 
